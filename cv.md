@@ -1,10 +1,10 @@
 # Yaroslav Okhrimchuk
 
 # My contact info
-LOCATION: Lodz, Poland
-PHONE: 579 28 28 34
-E-MAIL: ohrimchuk77@gmail.com
-GitHub: [GitHub Pages](https://github.com/yaroslavruby)
+* LOCATION: Lodz, Poland
+* PHONE: 579 28 28 34
+* E-MAIL: ohrimchuk77@gmail.com
+* GitHub: [GitHub Pages](https://github.com/yaroslavruby)
 
 # About me
 My name is Yaroslav I am beginner Developer, and understand the importance of creating a highly readable and easily maintainable source code. I am constantly striving to learn new technologies.
@@ -18,8 +18,8 @@ My name is Yaroslav I am beginner Developer, and understand the importance of cr
 
 # Education
 * National University "Odessa law Academy", Odessa, jurisprudence
-* HTML academy
-* Sololearn
+* [Code-Basic](https://ru.code-basics.com/)
+* [Sololearn](https://www.sololearn.com/profile/13571168)
    * Ruby
    * HTML
    * CSS
@@ -27,11 +27,11 @@ My name is Yaroslav I am beginner Developer, and understand the importance of cr
 
 
 # Code example
-[Codewars exercise](https://www.codewars.com/kata/5899642f6e1b25935d000161/train/ruby)
+[Codewars exercise](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/javascript)
 
-    def merge_arrays(arr1, arr2)
-      (arr1 | arr2).sort
-    end
+    function stringToArray(string) {
+      return string.split(' ');
+    }
 
 # Languages
 * English: beginner
